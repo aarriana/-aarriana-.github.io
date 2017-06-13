@@ -7,15 +7,21 @@ Mahasiswa Ilmu Komputer
 
 ## Pendidikan
 ## Institut Pertanian Bogor — *S. Kom*
+
 Sep 2016 – Sekarang
+
 ## SMA Negeri 9 Bogor
+
 Jul 2013 – Jun 2016
+
 ## Pelatihan
 - Menulis Novel
 - Pertolongan Pertama
+
 ## Keahlian
 - Menulis
 - *Public Speaking*
 - HTML
+
 ## Hobi
 Membaca, menulis, dan menonton.
