@@ -3,7 +3,7 @@ Mahasiswa Ilmu Komputer
 
 *Jl Kabandungan Rt 5 Rw 4 Bogor 1610*\
 *+62 857-7841-5750*\
-*aar.riana10@gmail.com*\
+*aar.riana10@gmail.com*
 
 ## Pendidikan
 ## Institut Pertanian Bogor — *S. Kom*
